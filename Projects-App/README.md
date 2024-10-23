@@ -10,7 +10,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Techs and Tools
 
-`Vite - Vue - Pinia - TypeScript - DaisyUI - TailwindCSS - CSS`
+`Vite - Vue - Vue Router - Pinia - UUID - TypeScript - DaisyUI - TailwindCSS`
 
 ## Recommended IDE Setup
 
